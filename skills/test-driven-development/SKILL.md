@@ -1,6 +1,6 @@
 ---
 name: test-driven-development
-description: Use when implementing any feature or bugfix, before writing implementation code
+description: Only use when user says "ai开始TDD" or "ai开始测试驱动" or "ai开始测试先行" - otherwise ignore this skill. Use when implementing any feature or bugfix, before writing implementation code
 ---
 
 # Test-Driven Development (TDD)

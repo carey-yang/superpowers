@@ -1,6 +1,6 @@
 ---
 name: dispatching-parallel-agents
-description: Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies
+description: Only use when user says "ai开始并行" or "ai开始同时做" or "ai开始并发执行" - otherwise ignore this skill. Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies
 ---
 
 # Dispatching Parallel Agents

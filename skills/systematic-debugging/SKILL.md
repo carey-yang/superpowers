@@ -1,6 +1,6 @@
 ---
 name: systematic-debugging
-description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+description: Only use when user says "ai开始调试" or "ai开始排查" or "ai开始找bug" - otherwise ignore this skill. Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
 ---
 
 # Systematic Debugging

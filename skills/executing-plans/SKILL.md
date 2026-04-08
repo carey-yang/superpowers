@@ -1,6 +1,6 @@
 ---
 name: executing-plans
-description: Use when you have a written implementation plan to execute in a separate session with review checkpoints
+description: Only use when user says "ai开始执行" or "ai开始做" - otherwise ignore this skill. Use when you have a written implementation plan to execute in a separate session with review checkpoints
 ---
 
 # Executing Plans

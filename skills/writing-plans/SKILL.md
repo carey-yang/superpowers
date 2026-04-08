@@ -1,6 +1,6 @@
 ---
 name: writing-plans
-description: Use when you have a spec or requirements for a multi-step task, before touching code
+description: Only use when user says "ai开始计划" or "ai开始写计划" or "ai开始制定计划" - otherwise ignore this skill. Use when you have a spec or requirements for a multi-step task, before touching code
 ---
 
 # Writing Plans

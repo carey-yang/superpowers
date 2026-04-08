@@ -1,6 +1,6 @@
 ---
 name: subagent-driven-development
-description: Use when executing implementation plans with independent tasks in the current session
+description: Only use when user says "ai开始派工" or "ai开始多任务协作" or "ai开始多人开发" - otherwise ignore this skill. Use when executing implementation plans with independent tasks in the current session
 ---
 
 # Subagent-Driven Development

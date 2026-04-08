@@ -1,6 +1,6 @@
 ---
 name: writing-skills
-description: Use when creating new skills, editing existing skills, or verifying skills work before deployment
+description: Only use when user says "ai开始写技能" or "ai开始建技能" or "ai开始创建技能" - otherwise ignore this skill. Use when creating new skills, editing existing skills, or verifying skills work before deployment
 ---
 
 # Writing Skills
